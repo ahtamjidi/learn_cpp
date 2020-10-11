@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/amir/Desktop/MyWork/Learn/learn_cpp/code/build",
+  "command": "/usr/bin/c++  -DGFLAGS_IS_A_DLL=0 -isystem /usr/include/eigen3    -o CMakeFiles/ceres_ex1.dir/ceres_ex1.cpp.o -c /home/amir/Desktop/MyWork/Learn/learn_cpp/code/ceres_ex1.cpp",
+  "file": "/home/amir/Desktop/MyWork/Learn/learn_cpp/code/ceres_ex1.cpp"
+},
+{
+  "directory": "/home/amir/Desktop/MyWork/Learn/learn_cpp/code/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/eigen3    -o CMakeFiles/main.dir/sqlite.cpp.o -c /home/amir/Desktop/MyWork/Learn/learn_cpp/code/sqlite.cpp",
+  "file": "/home/amir/Desktop/MyWork/Learn/learn_cpp/code/sqlite.cpp"
+}
+]

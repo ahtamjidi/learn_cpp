@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ceres_ex1.dir/ceres_ex1.cpp.o  -o ceres_ex1  /usr/local/lib/libceres.a -lglog /usr/lib/x86_64-linux-gnu/libgflags.so.2.2.2 -lpthread -lspqr -ltbb -lcholmod -lccolamd -lcamd -lcolamd -lamd -llapack -lf77blas -latlas -lsuitesparseconfig -lrt -lcxsparse -llapack -lf77blas -latlas -lsuitesparseconfig -lrt -lcxsparse 

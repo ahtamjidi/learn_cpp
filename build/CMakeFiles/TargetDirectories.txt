@@ -1,0 +1,4 @@
+/home/amir/Desktop/MyWork/Learn/learn_cpp/code/build/CMakeFiles/rebuild_cache.dir
+/home/amir/Desktop/MyWork/Learn/learn_cpp/code/build/CMakeFiles/edit_cache.dir
+/home/amir/Desktop/MyWork/Learn/learn_cpp/code/build/CMakeFiles/ceres_ex1.dir
+/home/amir/Desktop/MyWork/Learn/learn_cpp/code/build/CMakeFiles/main.dir
